@@ -27,5 +27,5 @@ Just some links so I don't lose my own work.
 
 ## Blogs
 
-https://ayushkr12.medium.com/ (Web Application Pentesting)
-https://medium.com/@ayuxblogs (Low Level)
+- https://ayushkr12.medium.com/ (Web Application Pentesting)
+- https://medium.com/@ayuxblogs (Low Level)
