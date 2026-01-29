@@ -25,3 +25,7 @@ Just some links so I don't lose my own work.
 - https://github.com/ayuxsec/assembly_notes
 - https://github.com/ayuxsec/my_ctf_notes
 
+## Blogs
+
+https://ayushkr12.medium.com/ (Web Application Pentesting)
+https://medium.com/@ayuxblogs (Low Level)
