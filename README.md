@@ -25,6 +25,7 @@ Just some links so I don't lose my own work.
 
 - https://github.com/ayuxsec/assembly_notes
 - https://github.com/ayuxsec/my_ctf_notes
+- github.com/ayuxsec/bugbounty_notes
 
 ## Blogs
 
