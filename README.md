@@ -36,7 +36,6 @@ Just some links so I don't lose my own work.
 - https://github.com/ayuxsec/my_ctf_notes
 - github.com/ayuxsec/bugbounty_notes
 
-## Blogs
+## Gists
 
-- https://ayushkr12.medium.com/ (Web Application Pentesting)
-- https://medium.com/@ayuxblogs (Low Level)
+- https://gist.github.com/ayuxsec/f389b234ad4f02c474a1739716812eb1
